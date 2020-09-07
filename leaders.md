@@ -1,5 +1,10 @@
 ### Leaders
 * [Abishekraghav Murugeashan](mailto:abisherkraghav.murugeashan@owasp.org)
+
+### Chapter Members
+
+* [Vignesh Balasenthil (Developer)](vikey8192@gmail.com)
+
 ### Leader Contact
 
 - [Linkedin](https://www.linkedin.com/in/arhaxor21/)
