@@ -2,8 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Namakkal
-tags: example-tag
+tags: namakkal
 region: Asia
+meetup-group:  owasp-namakkal-meetup-group
 
 ---
 ## welcome
