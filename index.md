@@ -47,6 +47,6 @@ Would you like to speak on the upcoming events on OWASP Namakkal?, contact us vi
 ## Upcoming Events
 ### Social Engineering - Sunday, 27 February 2022, 3:00 PM
 
-<img src="assets/images/Event_2.png" width="400" height="400" />
+<img src="assets/images/OWASP_Social_Eng.png" width="400" height="400" />
 
 - [Registration Link](https://forms.gle/qeCM3SWK8GSvVjvA6)
