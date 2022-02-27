@@ -49,4 +49,4 @@ Would you like to speak on the upcoming events on OWASP Namakkal?, contact us vi
 
 <img src="assets/images/OWASP_Social_Eng.png" width="400" height="400" />
 
-- [Registration Link](https://forms.gle/qeCM3SWK8GSvVjvA6)
+- [Registration Link](https://us06web.zoom.us/j/86866670614?pwd=WmswbUhqN3p6VjRLK2hYQXQycFk2UT09)
