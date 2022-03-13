@@ -26,7 +26,6 @@ Everyone is welcome and encouraged to participate in our [Projects](https://owas
 
 Would you like to speak on the upcoming events on OWASP Namakkal?, contact us via Email
 * [Nazeeb Mohammed Rafi](mailto:nazeebmohammed.rafi@owasp.org)
-* [David Kingsly](mailto:david.kingsly@owasp.org)
 * [Musheed Ahamed](mailto:musheed.ahamed@owasp.org)
 
 **Email Format :**
@@ -46,10 +45,3 @@ Would you like to speak on the upcoming events on OWASP Namakkal?, contact us vi
 
 ## Upcoming Events
 #### Will Be There Soon...
-
-## Past Events
-### Social Engineering | Sunday, 27 February 2022, 3:00 PM
-
-<img src="assets/images/OWASP_Social_Eng.png" width="400" height="400" />
-
-- [Slides And Recorded Session](https://drive.google.com/drive/folders/1uQAdxxNM4dhQ9oxVZzmosQO8x1cCxlK2?usp=sharing)
